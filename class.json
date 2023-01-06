@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "class_id": 1,
+      "school_id": 1,
+      "status": "ACTIVE"
+    },
+    {
+      "class_id": 2,
+      "school_id": 2,
+      "status": "ACTIVE"
+    },
+    {
+      "class_id": 3,
+      "school_id": 3,
+      "status": "ACTIVE"
+    }
+  ]
+}
